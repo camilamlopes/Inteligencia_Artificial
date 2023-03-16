@@ -1,1 +1,1 @@
-# Inteligencia_Artificial
+# Repositória para a matéria de Inteligência Artificial
